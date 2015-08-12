@@ -1,0 +1,6 @@
+/Cache
+/Local
+/Index
+/Packages/User/*
+!/Packages/User/*.sublime-build
+!/Packages/User/Preferences.sublime-settings

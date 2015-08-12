@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "ndk-build",
+	"working_dir": "${project_path:${folder}}",
+}

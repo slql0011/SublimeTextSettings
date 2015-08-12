@@ -1,0 +1,15 @@
+{
+	// Encode key, any number but not 0
+	"encode_key" : 58,
+
+	// Maximum size for decoding cache, 0 means no cache
+	"max_cache_size" : 100,
+
+	// Maximum words to detect, 0 means unlimited(unused)
+	"max_detect_words" : 102400,
+
+	// Decoding/encoding options when loading/saving: always, never
+	// Now "encoding_on_save" is unused
+	"decoding_on_load" : "always",
+	"encoding_on_save" : "always"
+}
